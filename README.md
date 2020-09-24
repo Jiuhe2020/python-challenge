@@ -14,7 +14,7 @@ The set of financial data is called [budget_data.csv](https://github.com/Jiuhe20
 - In addition, the final script both print the analysis to the terminal and export a text file with the results.
 
 ## PyPoll
-The set of poll data is called election_data.csv, which is composed of three columns: `Voter ID`, `County`, and `Candidate`.
+The set of poll data is called [election_data.csv](https://github.com/Jiuhe2020/python-challenge/blob/master/PyPoll/Resources/election_data.csv), which is composed of three columns: `Voter ID`, `County`, and `Candidate`.
 - Create a Python script that analyzes the votes and calculates each of the following:
   - The total number of votes cast
   - A complete list of candidates who received votes
