@@ -10,7 +10,7 @@ The set of financial data is called [budget_data.csv](https://github.com/Jiuhe20
   - The average of the changes in "Profit/Losses" over the entire period
   - The greatest increase in profits (date and amount) over the entire period
   - The greatest decrease in losses (date and amount) over the entire period \
-
+![PyBank](https://github.com/Jiuhe2020/python-challenge/blob/master/images/PyBank.png)
 - In addition, the final script both print the analysis to the terminal and export a text file with the results.
 
 ## PyPoll
@@ -21,7 +21,7 @@ The set of poll data is called [election_data.csv](https://github.com/Jiuhe2020/
   - The percentage of votes each candidate won
   - The total number of votes each candidate won
   - The winner of the election based on popular vote \
-
+![PyPoll](https://github.com/Jiuhe2020/python-challenge/blob/master/images/PyPoll.png)
 - In addition, the final script both print the analysis to the terminal and export a text file with the result
 
 ## List of Files
