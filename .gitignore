@@ -1,1 +1,14 @@
+# Python files
+config.py
+__pycache__/*
 
+
+# Jupyter Checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Data files
+execution_output.xlsx
+
+# .DS_Store
+.DS_Store
