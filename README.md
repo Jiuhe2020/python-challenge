@@ -27,8 +27,8 @@ The set of poll data is called [election_data.csv](https://github.com/Jiuhe2020/
 - In addition, the final script both print the analysis to the terminal and export a text file with the results.
 
 ## List of Files
-1. PyBank
-2. PyPoll
+1. PyBank: main.py - the main python script
+2. PyPoll: main.py - the main python script
 
 ---
 ### Copyright
