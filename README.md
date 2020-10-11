@@ -12,7 +12,7 @@ The set of financial data is called [budget_data.csv](https://github.com/Jiuhe20
   - The greatest increase in profits (date and amount) over the entire period
   - The greatest decrease in losses (date and amount) over the entire period
 ![PyBank](https://github.com/Jiuhe2020/python-challenge/blob/master/images/PyBank.png)
-- In addition, the final script both print the analysis to the terminal and export a text file with the results.
+- In addition, the final script both print the analysis to the terminal and export a text file with the results
 
 ## PyPoll
 ![Poll Analysis](https://labourlist.org/wp-content/uploads/2011/10/poll_vote-1600x900.jpg)
