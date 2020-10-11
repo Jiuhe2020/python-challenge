@@ -24,7 +24,7 @@ The set of poll data is called [election_data.csv](https://github.com/Jiuhe2020/
   - The total number of votes each candidate won
   - The winner of the election based on popular vote
 ![PyPoll](https://github.com/Jiuhe2020/python-challenge/blob/master/images/PyPoll.png)
-- In addition, the final script both print the analysis to the terminal and export a text file with the results.
+- In addition, the final script both print the analysis to the terminal and export a text file with the results
 
 ## List of Files
 1. PyBank: main.py - the main python script
