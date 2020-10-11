@@ -3,6 +3,7 @@
 This project utilizes Python to create one script for analyzing the financial records of a company (PyBank) and another script for analyzing the votes from an election (PyPoll).
 
 ## PyBank
+![Financial Analysis](https://www.carolineuniversity.com/wp-content/uploads/2019/09/Financial-Analysis.jpg)
 The set of financial data is called [budget_data.csv](https://github.com/Jiuhe2020/python-challenge/blob/master/PyBank/Resources/budget_data.csv), which is composed of two columns: `Date` and `Profit/Losses`.
 - Create a Python script that analyzes the records to calculate each of the following:
   - The total number of months included in the dataset
