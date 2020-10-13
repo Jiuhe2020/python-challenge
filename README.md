@@ -12,7 +12,7 @@ The set of financial data is called [budget_data.csv](https://github.com/Jiuhe20
   - The greatest increase in profits (date and amount) over the entire period
   - The greatest decrease in losses (date and amount) over the entire period
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/python-challenge/blob/master/images/PyBank.png" height="40%" width="40%">
+  <img src="https://github.com/Jiuhe2020/python-challenge/blob/master/images/PyBank.png" height="50%" width="50%">
 </p>
 
 - In addition, the final script both print the analysis to the terminal and export a text file with the results
